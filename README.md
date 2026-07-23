@@ -26,12 +26,8 @@ I'm a web developer who enjoys building full-stack applications with JavaScript,
 - [**Agrica**](https://github.com/AliIbrahim3600/Agrica) — Agriculture web application (JavaScript)
 - [**A.I.M-Chef**](https://github.com/AliIbrahim3600/A.I.M-Chef) — AI-powered meal chef assistant (CSS/JS)
 - [**ecommerce-project**](https://github.com/AliIbrahim3600/ecommerce-project) — Full e-commerce web app (JavaScript)
-- [**learn-react**](https://github.com/AliIbrahim3600/learn-react) — Learning React fundamentals (JavaScript)
 - [**Portfolio**](https://github.com/AliIbrahim3600/Portfolio) — JavaScript/TypeScript portfolio
-- [**My_Portfolio**](https://github.com/AliIbrahim3600/My_Portfolio) — CSS portfolio site
 - [**Kaira**](https://github.com/AliIbrahim3600/Kaira) — Static website (HTML/CSS)
-- [**DEPI_Task_1**](https://github.com/AliIbrahim3600/DEPI_Task_1) — Problem-solving tasks (JavaScript)
-- [**React-course**](https://github.com/AliIbrahim3600/React-course) — React course exercises
 
 ### Collaborative
 
